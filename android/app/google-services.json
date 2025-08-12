@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "568688432259",
+    "firebase_url": "https://lazziapp-default-rtdb.firebaseio.com",
+    "project_id": "lazziapp",
+    "storage_bucket": "lazziapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568688432259:android:ad0d074d234b85d91737b6",
+        "android_client_info": {
+          "package_name": "com.alamidia.quizcode.slot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568688432259-2gm06itil6daood83ie54obn4hpit9bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUEJ2c8HqU1RwrCExrn_1MXKNlMeX22Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568688432259-2gm06itil6daood83ie54obn4hpit9bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:568688432259:android:0b3962d2eff19ad11737b6",
+        "android_client_info": {
+          "package_name": "com.lazzi.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "568688432259-sn20agp9q0ms6n7bf844dm5qoh5mj6sr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.lazzi.app",
+            "certificate_hash": "291310402ca50dae573b70ee50c2a524d2065981"
+          }
+        },
+        {
+          "client_id": "568688432259-2gm06itil6daood83ie54obn4hpit9bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUEJ2c8HqU1RwrCExrn_1MXKNlMeX22Og"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "568688432259-2gm06itil6daood83ie54obn4hpit9bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
