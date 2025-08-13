@@ -47,4 +47,7 @@ node_modules/
 windows/
 macos/
 linux/ 
-python-apt-2.4.0ubuntu4/ 
+python-apt-2.4.0ubuntu4/
+
+# Environment variables
+.env 
