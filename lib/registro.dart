@@ -8,8 +8,7 @@ import 'package:quiz_code/contants.dart';
 import 'package:mask_text_input_formatter/mask_text_input_formatter.dart';
 import 'package:quiz_code/firebaseManager.dart';
 import 'package:quiz_code/main.dart';
-import 'package:quiz_code/usuarioModel.dart';
-import 'package:flutter_svg/flutter_svg.dart';
+import 'package:quiz_code/usuarioModel.dart'; 
 import 'package:url_launcher/url_launcher.dart';
 
 class RegisterPage extends StatefulWidget {
@@ -463,17 +462,17 @@ class _RegisterPageState extends State<RegisterPage> {
               ),
 
               // logo alamidia fixed in bottom, independente do tamanho da tela
-              Container(
-                padding: const EdgeInsets.all(24),
-                child: SizedBox(
-                  width: double.infinity,
-                  child: Image(
-                    width: double.infinity,
-                    height: 100,
-                    image: AssetImage('assets/ALAMIDIA_LOGO.png'),
-                  ),
-                ),
-              ),
+              // Container(
+              //   padding: const EdgeInsets.all(24),
+              //   child: SizedBox(
+              //     width: double.infinity,
+              //     child: Image(
+              //       width: double.infinity,
+              //       height: 100,
+              //       image: AssetImage('assets/ALAMIDIA_LOGO.png'),
+              //     ),
+              //   ),
+              // ),
             ],
           ),
         ),

@@ -157,14 +157,14 @@ class _ChavePageState extends State<ChavePage> {
               ),
 
               // logo alamidia fixed in bottom, independente do tamanho da tela
-              SizedBox(
-                width: double.infinity,
-                child: Image(
-                  width: double.infinity,
-                  height: 100,
-                  image: AssetImage('assets/ALAMIDIA_LOGO.png'),
-                ),
-              ),
+              // SizedBox(
+              //   width: double.infinity,
+              //   child: Image(
+              //     width: double.infinity,
+              //     height: 100,
+              //     image: AssetImage('assets/ALAMIDIA_LOGO.png'),
+              //   ),
+              // ),
             ],
           ),
         ),
